@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### It's amazing how much 9 weeks can change ! Thanks 🚀IronHack🚀!
+
+
+
 <!--
 **VykiPetr/VykiPetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
